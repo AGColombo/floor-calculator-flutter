@@ -8,6 +8,7 @@ void main() {
     controller.setRoomLength('3.22');
     controller.setFloorWidth('0.6');
     controller.setFloorLength('0.6');
+    controller.setFloorPrice('50.5');
 
     final result = controller.calculate();
 
@@ -29,6 +30,10 @@ void main() {
 
     test("Metragem quadrada total com rodapé", () {
       expect(result.areaWithFooter, 12.24);
+    });
+
+    test("Preço total", () {
+      expect(result.totalPrice, 618.12);
     });
   });
 }
