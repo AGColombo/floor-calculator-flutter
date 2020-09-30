@@ -28,7 +28,7 @@ Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade
 
 ## Licença
 
-    Copyright 2020 Kleber de Oliveira Andrade
+    Copyright 2020 Adriano Gianini Colombo
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
