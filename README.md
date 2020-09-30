@@ -1,6 +1,6 @@
 # Calculadora de pisos e revestimentos
 
-Aplicativo de uma calculadora de pisos e revestimentos criado para disciplina de Programação Mobile, criado por Adriano Gianini Colombo
+Aplicativo de uma calculadora de pisos e revestimentos criado para disciplina de Programação Mobile, criado por Kleber de Oliveira Andrade. Desafios resolvidos por Adriano Gianini Colombo.
 
 Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade/criando-um-aplicativo-em-flutter-para-calcular-a-quantidade-de-pisos-por-m%C2%B2-dac30b5b5027)
 
@@ -8,15 +8,7 @@ Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade
     <img src="https://cdn-images-1.medium.com/max/400/1*-bDQqIcOqyc5-4qvQLBODQ.png" width="250"/>
     <img src="https://cdn-images-1.medium.com/max/400/1*AcNqHgMroIwf2y7XAZHoGQ.png" width="250"/>
     <img src="https://cdn-images-1.medium.com/max/400/1*B8I5SuZlGanHB8POBmBIZA.png" width="250"/>
-</p>
-
-## Como clonar o projeto
-
-*   Faça um fork do projeto (precisa ter uma conta no github)
-*   Abra o terminal do Visual Studio Code
-*   Acesse a pasta onde deseja salvar o aplicativo e digite: git clone *link_do_projeto_no_seu_github* **floor_calculator**
-*   Clique em File --> Open e abra o projeto
-*   Não se esqueça de abrir o arquivo *pubspec.yaml* e salvar (CTRL + S) o arquivo para que os plugins sejam baixados 
+</p> 
 
 ## Desafio para aula
 
@@ -28,7 +20,7 @@ Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade
 
 ## Licença
 
-    Copyright 2020 Adriano Gianini Colombo
+    Copyright 2020 Kleber de Oliveira Andrade
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
