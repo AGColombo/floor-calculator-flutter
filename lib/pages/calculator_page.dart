@@ -80,6 +80,9 @@ class _CalculatorPageState extends State<CalculatorPage> {
       ),
       validator: ValidatorHelper.isValidText,
       keyboardType: TextInputType.number,
+      inputFormatters: <TextInputFormatter>[
+        FilteringTextInputFormatter.digitsOnly
+      ],
     );
   }
 
